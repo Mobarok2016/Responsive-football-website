@@ -119,6 +119,10 @@ footer img{
     width:50px;
 }
 @media only screen and (max-width:668px) {
+    .header{
+        width:100vw;
+    }
+    
     .header-text{
        
         width:200px;
