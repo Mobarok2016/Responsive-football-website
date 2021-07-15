@@ -138,12 +138,15 @@ footer img{
        height:150px;
         position:absolute;
         top:150px;
-        left:200px;
+        left:30px;
     }
     .players{
         grid-template-columns: repeat(1,1fr);
         flex-direction: column;
         
+    }
+    .player{
+        padding:2%;
     }
     .bottom{
         margin-top: 100px;
@@ -152,7 +155,7 @@ footer img{
         font-size: 20px;
         font-weight: 700;
         position:relative;
-        left:200px;
+        left:150px;
         top:-50px;
         
         
